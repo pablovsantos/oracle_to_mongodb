@@ -1,0 +1,20 @@
+[
+    {
+        "source_nomeSchema": "SCHEMA_NAME",
+        "source_nomeTabela": "TABLE_NAME1",
+        "target_nomecollection": "COLLECTION_NAME1",
+        "target_nomeDatabaseMongo": "DATABASE_MONGO"
+    },
+    {
+        "source_nomeSchema": "SCHEMA_NAME",
+        "source_nomeTabela": "TABLE_NAME2",
+        "target_nomecollection": "COLLECTION_NAME2",
+        "target_nomeDatabaseMongo": "DATABASE_MONGO"
+    },
+    {
+        "source_nomeSchema": "SCHEMA_NAME",
+        "source_nomeTabela": "TABLE_NAME3",
+        "target_nomecollection": "COLLECTION_NAME3",
+        "target_nomeDatabaseMongo": "DATABASE_MONGO"
+    }
+]
